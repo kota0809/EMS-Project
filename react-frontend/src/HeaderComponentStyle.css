@@ -1,0 +1,22 @@
+.cursorPointer {
+    cursor: pointer;
+  }
+  
+  .dropdownMenu {
+    background-color: #343a40;
+    color: white;
+    border: none;
+  }
+  
+  .dropdownItemText {
+    font-weight: bold;
+  }
+  
+  .dropdownItem {
+    color: white;
+  }
+  
+  .dropdownItem:hover {
+    background-color: #495057;
+  }
+  
